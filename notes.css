@@ -1,0 +1,105 @@
+*{
+    background-color: #2A2C2B;
+}
+#banner{
+    position:fixed;
+    background-color: #FF8011;
+    margin: -30px 0px auto 7px;
+    padding: 5px 15px 5px 15px;
+}
+h1{
+    color: #2A2C2B;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-kerning: auto;
+    font-size: 55px;
+    background-color: #FF8011;
+    margin: 8px 12px -6px 12px;
+}
+h2{
+    font-size: 20px;
+    color: #FF8011;
+    font-family: "Helvetica Neue", sans-serif;
+    margin: 3px;
+    padding: 0 0 3px 25%
+}
+#menu{
+    position: fixed;
+    margin: 84px 0 0 7px;
+    background-color: #FF8011;
+}
+a {
+    float: right;
+    color: #FF8011;
+    background-color:#2A2C2B;
+    padding: 2px 5px 3px 30px;
+    margin: 13px 12px 5px auto;
+}
+li {
+    font-family: "Helvetica Neue", sans-serif;
+    color: #FF8011;
+    background-color: #FF8011;
+    font-size: 15px;
+    font-style: normal;
+}
+#spacer{
+    width: 40%;
+    margin: 50px auto auto 550px;
+    border-color: #DBD9CF;
+}
+#info{
+    width: 40%;
+    margin:10px auto auto 550px;
+}
+p{
+    font-family: "Univers" sans-serif; 
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: #FF8011;
+    padding: 10px;
+}
+img{
+    width: 320px;
+    height: 320px; 
+    margin: -390 auto auto 185px;
+}
+#gfda{
+    margin:-60px 0 0 0;
+    font-family: "Helvetica Neue", sans-serif;
+    color: #FF8011;
+    float: left;
+    font-size: 32px;
+    padding: 0 20px 0 20px;
+}
+
+form{
+ margin: 175px auto auto 200px;
+    position: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+<!--
+grey
+    #2A2C2B
+orange
+    #FF8011
+light
+    #DBD9CF 
+
+
+
+>!--
